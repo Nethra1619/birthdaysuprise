@@ -15,7 +15,4 @@ To set up and view the Surprise Birthday Memory Lane:
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone 
-   cd <repository-directory>
-
+  
