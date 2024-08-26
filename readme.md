@@ -15,7 +15,6 @@ To set up and view the Surprise Birthday Memory Lane:
 
 1. **Clone the Repository**
 
-   Clone the repository to your local machine:
-
    ```bash
    git clone https://github.com/Nethra1619/birthdaysuprise.git
+   cd birthdaysuprise
