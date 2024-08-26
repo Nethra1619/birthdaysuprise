@@ -14,5 +14,8 @@ This project consists of:
 To set up and view the Surprise Birthday Memory Lane:
 
 1. **Clone the Repository**
+          git clone https://github.com/Nethra1619/birthdaysuprise.git
+          cd birthdaysuprise
+
 
   
